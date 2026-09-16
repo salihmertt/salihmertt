@@ -5,4 +5,4 @@ Computer Engineering student at Yeditepe University.
 Into ML, learning Rust, love game dev.
 
 
-![image](/hey.png)
+<img src="/hey.png" width="400">
